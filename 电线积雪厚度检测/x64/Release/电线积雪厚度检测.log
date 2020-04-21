@@ -1,0 +1,12 @@
+﻿  detect.cpp
+H:\VS_Projects\电线积雪厚度检测\电线积雪厚度检测\detect.cpp(55,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+H:\VS_Projects\电线积雪厚度检测\电线积雪厚度检测\detect.cpp(74,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+H:\VS_Projects\电线积雪厚度检测\电线积雪厚度检测\detect.cpp(83,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\VS_Projects\电线积雪厚度检测\电线积雪厚度检测\detect.cpp(131,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\VS_Projects\电线积雪厚度检测\电线积雪厚度检测\detect.cpp(159,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\VS_Projects\电线积雪厚度检测\电线积雪厚度检测\detect.cpp(174,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\VS_Projects\电线积雪厚度检测\电线积雪厚度检测\detect.cpp(198,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Edge.cpp
+  main.cpp
+H:\VS_Projects\电线积雪厚度检测\电线积雪厚度检测\detect.cpp(198,39): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+LINK : fatal error LNK1181: 无法打开输入文件“opencv_world330.lib”
